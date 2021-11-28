@@ -1,13 +1,13 @@
 ## Logging internet speed
 
 This is a simple script with instructions that allows you to monitor the actual speed of your internet connection
-over a longer period of time. I used to compare real world speed of different ISPs.
+over a longer period of time. I use it to compare real world speed of different ISPs.
 
 ## Setup
 Clone this repository on a linux server of your choosing:
 
 ``` bash
-git clone
+git clone https://github.com/robertcv/log_internet_speed
 ```
 
 Setup a new python virtual environment and install dependencies:
